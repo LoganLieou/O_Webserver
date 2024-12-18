@@ -1,2 +1,4 @@
 (test
- (name test_fr_webserver))
+  (name fr_test)
+  (libraries fr_webserver)
+  (preprocess (pps ppx_inline_test)))

@@ -1,2 +1,4 @@
 (library
- (name fr_webserver))
+  (modules feral)
+  (libraries unix)
+  (name fr_webserver))

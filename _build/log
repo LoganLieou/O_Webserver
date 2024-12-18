@@ -1,4 +1,4 @@
-# dune exec fr_webserver
+# dune test tests/myTest.t
 # OCAMLPARAM: unset
 # Shared cache: disabled
 # Shared cache location: /Users/loganj/.cache/dune/db
@@ -13,4 +13,3 @@
 #  ; build_dir = In_build_dir "default"
 #  ; instrument_with = []
 #  }
-$ /Users/loganj/.opam/default/bin/ocamlc.opt -config > /var/folders/2h/18pxs4550hlc6gk4lr8xfmx00000gn/T/dune_4cf323_output
