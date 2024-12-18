@@ -1,0 +1,4 @@
+(lang dune 3.16)
+(name fr_webserver)
+(sections (lib .) (bin ../../bin) (doc ../../doc/fr_webserver))
+(files (lib (META dune-package opam)) (bin (fr_webserver)) (doc (README.md)))

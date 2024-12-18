@@ -1,0 +1,4 @@
+(executable
+ (public_name fr_webserver)
+ (name main)
+ (libraries fr_webserver unix))
