@@ -1,1 +1,3 @@
-# Feral Rat Web Server
+# OCaml Webserver
+
+Webserver written in OCaml.
